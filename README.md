@@ -6,10 +6,10 @@ I enjoy exploring how software systems are designed, built, and maintained. I am
 Through this course, I hope to gain practical skills in maintaining and improving existing software systems, as well as develop a better understanding of real-world software development practices.
 
 ## About Me
-🎓 Software Engineering student
-☕ Interested in backend development using Java and Spring Boot
-💻 Passionate about building and maintaining software systems
-🚀 Currently learning GitHub and collaborative development workflows
+- 🎓 Software Engineering student
+- ☕ Interested in backend development using Java and Spring Boot
+- 💻 Passionate about building and maintaining software systems
+- 🚀 Currently learning GitHub and collaborative development workflows
 
 ## Course Expectations in WOC7014: Framework-Based Software Design and Development
 Through this course, I hope to:
