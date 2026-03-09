@@ -21,4 +21,4 @@ Through this course, I hope to:
 About 70% of my colleagues at my workplace graduated from the University of Malaya, and they encouraged me to further my studies there. Because of their recommendation, I decided to give it a try and eventually came here. It has indeed been a great place to study.
 
 ## My Image
-![My Image](ant.jpg)
+![My Image](ant.png)
