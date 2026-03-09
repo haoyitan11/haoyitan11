@@ -20,4 +20,6 @@ Through this course, I hope to:
 ## Fun Fact
 About 70% of my colleagues at my workplace graduated from the University of Malaya, and they encouraged me to further my studies there. Because of their recommendation, I decided to give it a try and eventually came here. It has indeed been a great place to study.
 
+有生之年，我必重返大厂！(I hope to return to big tech one day)
+
 <img src="ant.png" width="300" style="float: left; margin-right: 20px;"/>
