@@ -22,7 +22,7 @@ Through this course, I hope to:
 
 ## Experience
 I previously interned at Ant Group Malaysia, and it was a great learning experience.
-中国留学生有机会就来大马的蚂蚁实习吧，这里蛮欢迎UM中国留学生的 (Ant Group Malaysia is welcoming UM international students for internships, feel free to apply!)
+- 中国留学生有机会就来大马的蚂蚁实习吧，这里蛮欢迎UM中国留学生的 (Ant Group Malaysia is welcoming UM international students for internships, feel free to apply!)
 <p align="left">
   <img src="https://github.com/user-attachments/assets/5ee6d364-a591-4246-a3de-0a42d0d2cd23" width="300">
 </p>
