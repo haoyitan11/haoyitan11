@@ -19,10 +19,3 @@ Through this course, I hope to:
 
 ## Fun Fact
 🍈 Durian is one of my favourite fruits.
-
-## Experience
-I previously interned at Ant Group Malaysia, and it was a great learning experience. My colleagues also encouraged me to further my studies here, which made the experience even more meaningful.
-- 中国留学生有机会就来大马的蚂蚁实习吧，这里蛮欢迎UM中国留学生的 (Ant Group Malaysia is welcoming UM international students for internship, feel free to apply!)
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/5ee6d364-a591-4246-a3de-0a42d0d2cd23" width="300">
-</p>
