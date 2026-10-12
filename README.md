@@ -16,7 +16,3 @@ Through this course, I hope to:
 - Gain a better understanding of the Python framework Django
 - Learn how to maintain and improve existing software systems
 - Develop experience using version control tools like GitHub for collaboration
-
-## Fun Fact
-🍈 Durian is one of my favourite fruits.
-
